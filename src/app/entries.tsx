@@ -7,6 +7,8 @@ export const entries: IEntry[] = [
     description: [
       "This is a fun and easy recipe to make with leftover noodles and veggies. I'm using a mix of mushrooms, bell peppers, and onions, but you can use whatever you have on hand. The sauce is a simple mix of soy sauce, vinegar, and sugar. Enjoy!",
     ],
+    effort: "💪💪",
+    ngon: "👌",
   },
   {
     title: "Pasta with Tomato and Pineapple Sauce",
@@ -14,6 +16,8 @@ export const entries: IEntry[] = [
     description: [
       "It's sunny, and I'm in a good mood. Here, we're cooking some pasta, chopping tomatoes and pineapple, thawing my favorite Beyond Meat beef, aka Beyond Budget, and jamming it all in. Yes! Jamming them all in!!! The weird sour sauce with vegan minced meat and some chewy mushrooms like no other (because no one would do such a thing T__T). But it's sunny outside, I'm in a good mood and the food fills my tummy. I thought that's an awesome success!",
     ],
+    effort: "💪💪",
+    ngon: "👌👌👌",
   },
   {
     title: "Oat Porridge",
@@ -21,6 +25,8 @@ export const entries: IEntry[] = [
     description: [
       "An easy and quick meal for breakfast. My favorite dish I learned from the time I meditated in the temple.",
     ],
+    effort: "💪",
+    ngon: "👌",
   },
   {
     title: "Seaweed miso soup",
@@ -28,6 +34,8 @@ export const entries: IEntry[] = [
     description: [
       "In warm soup I trust!!!! My Korean, Japanese fellows, please don't hate me for destroy you'all beautifully dishes. I'm just in hungry and hurry and happen to love seaweed so badly.",
     ],
+    effort: "💪💪",
+    ngon: "👌👌",
   },
   {
     title: "Anything tomato sauce",
@@ -35,6 +43,8 @@ export const entries: IEntry[] = [
     description: [
       "Today featuring Beyond Meat, Beyond Reach and tomato sauce. Who says one can't have burger with rice??! I haven't been to groceries for a while, as you can see. T___T",
     ],
+    effort: "💪💪💪",
+    ngon: "👌👌👌",
   },
   {
     title: "Roll your veg away!",
@@ -43,5 +53,7 @@ export const entries: IEntry[] = [
       "I started with a bag of my favorite vegan strip chicken, thinking of making a random vegan lemongrass chicken dish. It turned out pretty savory, just the way I like it, but I wasn't sure what to pair it with. In the last 7 minutes, a genius (self-descriptive 😄) idea came to mind. How about rolling it?",
       "Yep, yep! I grabbed the bánh tráng (rice paper), the quickest-cooking type of noodles, ran to the balcony for some mint, and, of course, my beloved dưa chua (carrot & radish pickles) from the fridge. Voila! I had a semi-fancy dish. yum yum!!! ",
     ],
+    effort: "💪💪💪",
+    ngon: "👌👌👌",
   },
 ];

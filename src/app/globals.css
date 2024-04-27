@@ -10,8 +10,7 @@
 
 html,
 body {
-  max-width: 100vw;
-  overflow-x: hidden;
+  @apply text-gray-800;
 }
 
 a {
@@ -27,24 +26,10 @@ a {
 
 @layer base {
   h1 {
-    @apply text-4xl
+    @apply text-4xl font-bold;
   }
 
   h2 {
-    @apply text-2xl;
+    @apply text-2xl font-bold;
   }
-
-  /* ... */
-}
-
-@layer components {
-  .alternating-grid:nth-child(n) {
-    grid-template-columns: auto 1fr;
-  }
-
-  .alternating-grid:nth-child(n+1) {
-    grid-template-columns: 1fr auto;
-  }
-
-  /* ... */
 }

@@ -4,6 +4,8 @@ export interface IEntry {
   title: string;
   videoId: string;
   description: string[];
+  effort?: string;
+  ngon?: string;
 }
 
 interface Props {
@@ -25,11 +27,15 @@ export const Entry = ({ entry, index }: Props) => {
       allowFullScreen
       className="flex-shrink-0"
       key="video"
-    ></iframe>
+    />
   );
   const content = (
     <div className="" key="content">
-      <h2 className="mb-4">{entry.title}</h2>
+      <h2 className="mb-2">{entry.title}</h2>
+      <div className="flex gap-4 mb-4 text-gray-600 text-sm">
+        {entry.effort && <span>Effort: {entry.effort}</span>}
+        {entry.ngon && <span>Ngon-ness: {entry.ngon}</span>}
+      </div>
       {entry.description.map((paragraph) => (
         <p key={cyrb64Hash(paragraph)} className="mb-4">
           {paragraph}
