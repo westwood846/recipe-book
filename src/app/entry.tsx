@@ -25,12 +25,12 @@ export const Entry = ({ entry, index }: Props) => {
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerPolicy="strict-origin-when-cross-origin"
       allowFullScreen
-      className="flex-shrink-0"
+      className="flex-shrink-0 max-[960px]:order-2"
       key="video"
     />
   );
   const content = (
-    <div className="" key="content">
+    <div className="grow basis-[337px]" key="content">
       <h2 className="mb-2">{entry.title}</h2>
       <div className="flex gap-4 mb-4 text-gray-600 text-sm">
         {entry.effort && <span>Effort: {entry.effort}</span>}
@@ -44,5 +44,5 @@ export const Entry = ({ entry, index }: Props) => {
     </div>
   );
   const elements = isEven ? [video, content] : [content, video];
-  return <div className="flex gap-8">{elements}</div>;
+  return <div className="flex gap-x-8 gap-y-0 flex-wrap">{elements}</div>;
 };

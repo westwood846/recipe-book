@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={fontFamily.className}>
-        <main className="container mx-auto max-w-screen-lg p-4 px-1 z-10 ">
+        <main className="container mx-auto max-w-screen-lg p-4 px-4 z-10 ">
           <h1 className="mb-12 text-center ">Hanny&apos;s Cookbook</h1>
           <p className="mb-12 text-center italic text-gray-600">
             {
