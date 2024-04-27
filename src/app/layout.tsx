@@ -4,6 +4,7 @@ import "./globals.css";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import Image from "next/image";
 import logo from "../../public/pineapple-lotus.jpg";
+import { Analytics } from "@vercel/analytics/react";
 
 const fontFamily = Poppins({ subsets: ["latin"], weight: ["400", "700"] });
 
@@ -39,6 +40,7 @@ export default function RootLayout({
           {children}
         </main>
         <SpeedInsights />
+        <Analytics />
       </body>
     </html>
   );
