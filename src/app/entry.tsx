@@ -25,7 +25,7 @@ export const Entry = ({ entry, index }: Props) => {
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerPolicy="strict-origin-when-cross-origin"
       allowFullScreen
-      className="flex-shrink-0 max-[960px]:order-2"
+      className="flex-shrink-0 max-[960px]:order-2 max-[960px]:mx-auto"
       key="video"
     />
   );
