@@ -56,4 +56,14 @@ export const entries: IEntry[] = [
     effort: "💪💪💪",
     ngon: "👌👌👌",
   },
+  {
+    title: "Turmeric Tofu With Dill And Rice Noodles",
+    videoId: "bPi2KTbUzBg",
+    description: [
+      "I felt humbled and inadequate cooking this dish. Chả Cá Lã Vọng (La Vong fish cake) is a very popular dish from Hà Nội, Việt Nam. As someone not born in this area, I only discovered this lovely dish after I had already become a vegetarian. Technically, I never tried the authentic version of it. I have tried and watched others cook this vegan version, and it was irresistibly fabulous. I love the richness of herbs and flavors.",
+      "This recipe was learned from Cameron Stauch in his book 'Vegetarian Vietnam'. I hold no credit for it but secretly enjoy the fun of recreating the meal to fit my own preferences and respect local ingredients. I hope you enjoy watching it too.",
+    ],
+    effort: "💪💪💪",
+    ngon: "👌👌",
+  },
 ];
