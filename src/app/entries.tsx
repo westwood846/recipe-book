@@ -66,4 +66,15 @@ export const entries: IEntry[] = [
     effort: "💪💪💪",
     ngon: "👌👌",
   },
+  {
+    title: "The warmest bread is the one from your oven",
+    videoId: "WREr0-9cULI",
+    description: [
+      "My boyfriend always longs for a warm, new and fresh bread. He woke up early, went to the corner bakery and asked for 'the warmest bread that you have'. That was the line he proudly crafted, after so many tries, so many confused reactions he got from the sellers and so many ok-fresh breads... just to make sure he got the freshly baked one. About a year ago, we moved to a new place, there aren't any bakery around. We obviously had no choice but to order in advance and store them in the freeze. I wasn't (still am not) a fan of bread but I thought... how hard could it be to bake bread? hmm? If successfully doing so would make my love be happy, I gotta try. ",
+      "Turn out it wasn't hard at all. The bread that I made here is sourdough. I found it even easier (and tastier, in my opinion) than regular bread. I've built/made/started the starter myself since September last year and it went pretty ok ever since.",
+      "I hope you find an inspiration through this video. I could have write more of the recipe in the video or edit the video better or wait for the best result (this was possibly the worst looking and tasting bread I've made this year :D ). But, well, what did I say? stay truth and show up as I am.",
+    ],
+    effort: "💪💪",
+    ngon: "🍞🍞🍞",
+  },
 ];
