@@ -70,11 +70,20 @@ export const entries: IEntry[] = [
     title: "The warmest bread is the one from your oven",
     videoId: "WREr0-9cULI",
     description: [
-      "My boyfriend always longs for a warm, new and fresh bread. He woke up early, went to the corner bakery and asked for 'the warmest bread that you have'. That was the line he proudly crafted, after so many tries, so many confused reactions he got from the sellers and so many ok-fresh breads... just to make sure he got the freshly baked one. About a year ago, we moved to a new place, there aren't any bakery around. We obviously had no choice but to order in advance and store them in the freeze. I wasn't (still am not) a fan of bread but I thought... how hard could it be to bake bread? hmm? If successfully doing so would make my love be happy, I gotta try. ",
+      "My boyfriend always longs for a warm, new and fresh bread. He woke up early, went to the corner bakery and asked for 'the warmest bread that you have'. That was the line he proudly crafted, after so many tries, so many confused reactions he got from the sellers and so many ok-fresh breads... just to make sure he got the freshly baked one. About a year ago, we moved to a new place, there aren't any bakery around. We obviously had no choice but to order in advance and store them in the freeze. I wasn't (still am not) a fan of bread but I thought... how hard could it be to bake bread? hmm? If successfully doing so would make my love be happy, I gotta try.",
       "Turn out it wasn't hard at all. The bread that I made here is sourdough. I found it even easier (and tastier, in my opinion) than regular bread. I've built/made/started the starter myself since September last year and it went pretty ok ever since.",
       "I hope you find an inspiration through this video. I could have write more of the recipe in the video or edit the video better or wait for the best result (this was possibly the worst looking and tasting bread I've made this year :D ). But, well, what did I say? stay truth and show up as I am.",
     ],
     effort: "💪💪",
     ngon: "🍞🍞🍞",
+  },
+  {
+    title: "Vegan noodle salad",
+    videoId: "a4sII2Ta7D0",
+    description: [
+      "it's another bún mắm chay, with vermicelli noodles (this yellow type is mỳ Quảng), tofu, tempeh, pickle, roasted peanut, all types of salads and vegan fish sauces. It might sound like a lot but they are available most of time in my kitchen. It takes little to no effort to assembly them. The hardest part was to fry tofu/tempeh (or vegan chicken). and the second hardest part was to mix the vegan fish sauces. And everything else after that falls into its places. yummy yummy!",
+    ],
+    effort: "💪💪",
+    ngon: "👌👌👌",
   },
 ];
