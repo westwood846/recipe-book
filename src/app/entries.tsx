@@ -86,4 +86,13 @@ export const entries: IEntry[] = [
     effort: "💪💪",
     ngon: "👌👌👌",
   },
+  {
+    title: "Soy sauce stir fried Noodles",
+    videoId: "_tj3Dwzl6ug",
+    description: [
+      "Over the years, I've learned not to overcook or even fully boil noodles for stir-fried dishes. This time, I slightly undercooked the noodles, leaving them still a bit hard. Then, I thoroughly rinsed them under running water to ensure that the starch on the outside of the noodles was washed away. By doing this, I could confidently add them to my wok and cook them with the other ingredients. This prevents the noodles from sticking together or becoming too soft while cooking. I think this is the right attempt.",
+    ],
+    effort: "💪",
+    ngon: "👌",
+  },
 ];
